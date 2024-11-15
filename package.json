@@ -1,0 +1,17 @@
+{
+    "name": "payroll-tool-api",
+    "version": "1.0.0",
+    "description": "Simple json-server database for payroll-tool",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "keywords": [
+        "json-server, node, REST API"
+    ],
+    "author": "Joshua K Smith",
+    "license": "ISC",
+    "dependencies": {
+        "json-server": "0.17.4"
+    }
+}
